@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "PhoneGap.teste.IFRN.CN"
+        }
+    }
+}
